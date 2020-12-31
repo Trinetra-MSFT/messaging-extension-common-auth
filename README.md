@@ -22,8 +22,7 @@ the Teams service needs to call into the bot.
     ```
 
 1) If you are using Visual Studio
-    - Open the solution `samples\csharp_dotnetcore\csharp_dotnetcore.sln`
-    - Set the Startup Project to `TeamsMessagingExtensionsSearchAuthConfig`
+    - Open the solution `https://github.com/Trinetra-MSFT/messaging-extension-common-auth/blob/master/MECommonAuth.sln`
     - The changes specified here will apply to this project
 
 1) Run ngrok - point to port 3978
