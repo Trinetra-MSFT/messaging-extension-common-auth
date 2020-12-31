@@ -1,4 +1,4 @@
-﻿# Teams Search Auth Config Bot
+﻿# Teams Messaging Extension Auth Bot
 
 Bot Framework v4 sample for Teams expands the [50.teams-messaging-extensions-search](https://github.com/microsoft/BotBuilder-Samples/tree/master/samples/javascript_nodejs/50.teams-messaging-extensions-search) sample to include a configuration page and Bot Service authentication.
 
